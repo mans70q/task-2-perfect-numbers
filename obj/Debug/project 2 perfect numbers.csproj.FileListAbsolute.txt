@@ -1,0 +1,8 @@
+C:\Users\Abdel\source\repos\project 2 perfect numbers\project 2 perfect numbers\bin\Debug\project 2 perfect numbers.exe.config
+C:\Users\Abdel\source\repos\project 2 perfect numbers\project 2 perfect numbers\bin\Debug\project 2 perfect numbers.exe
+C:\Users\Abdel\source\repos\project 2 perfect numbers\project 2 perfect numbers\bin\Debug\project 2 perfect numbers.pdb
+C:\Users\Abdel\source\repos\project 2 perfect numbers\project 2 perfect numbers\obj\Debug\project 2 perfect numbers.csproj.AssemblyReference.cache
+C:\Users\Abdel\source\repos\project 2 perfect numbers\project 2 perfect numbers\obj\Debug\project 2 perfect numbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Abdel\source\repos\project 2 perfect numbers\project 2 perfect numbers\obj\Debug\project 2 perfect numbers.csproj.CoreCompileInputs.cache
+C:\Users\Abdel\source\repos\project 2 perfect numbers\project 2 perfect numbers\obj\Debug\project 2 perfect numbers.exe
+C:\Users\Abdel\source\repos\project 2 perfect numbers\project 2 perfect numbers\obj\Debug\project 2 perfect numbers.pdb
